@@ -1,7 +1,6 @@
 # 100 Days Of Code - Journal
 
-### Day 0 : 25 juillet 2017 (Exemple 1)
-##### (effacez-moi ou dé-commentez-moi)
+### Day 0 : 11 Avril 2018 (Jour 1)
 
 **Progrès du jour** : CSS réparée, travaillé sur la fonctionnalité canvas pour l'app.
 
