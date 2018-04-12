@@ -1,15 +1,15 @@
 # #100DaysOfCode Log - Round 1 - [Quentin Lecocq]
 
-Le journal de mon challenge #100DaysOfCode. Démarré le [Mercredi 25 Avril 2018].
+Le journal de mon challenge #100DaysOfCode. Démarré le [Mercredi 11 Avril 2018].
 ## Log
 
 ### R1D1 
 
-**Progrès du jour** : CSS réparée, travaillé sur la fonctionnalité canvas pour l'app.
+**Progrès du jour** : Ebauche de ma HomePage fait, et structure de base complete.  
 
-**Pensées :** Je me suis vraiment battu avec CSS, mais pour finir, je sens que m'améliore doucement sur ce point. Canvas est encore nouveau pour moi, mais je suis parvenu à gérer quelques fonctionnalités basiques.
+**Pensées :** Je me suis vraiment battu avec CSS, mais pour finir, je sens que m'améliore doucement sur ce point. Il me reste énormement de boulot pour arriver au résultat souhaité. J'ai réussi à fixer mon background sur tout mon site, et à fixer de nouveau ma navbarr en haut de mon navigateur. DayOneDone
 
-**Lien de travail :** [App Calculette](http://www.example.com)
+**Lien de travail :** // 
 
 ### R1D2
 
