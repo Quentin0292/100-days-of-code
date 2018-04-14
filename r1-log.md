@@ -13,8 +13,9 @@ Le journal de mon challenge #100DaysOfCode. Démarré le [Mercredi 11 Avril 2018
 
 ### R1D2
 
-**Progrès du jour :**  
+**Progrès du jour :** Suivi du cours du wagon sur JS pour saisir les notions, et comprendre la structure des variables. 
+Test du code JS directement dans mon éditeur de texte par la suite. Full JS pour ce jour. 
 
-**Pensées :** 
+**Pensées :** Je saisis petit à petit toutes les opportunités offertes par JS et je suis impatient d'évoluer avec ce langage. 
 
 **Lien de travail :** 
